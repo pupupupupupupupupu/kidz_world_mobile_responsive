@@ -1,0 +1,125 @@
+.parent_container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.top_images {
+    margin-top: 0%;
+    max-width: 50%;
+    max-height: 20%;
+}
+
+/*not necessary*/
+.top_a {
+  
+}
+
+/*not necessary*/
+.top_b {
+
+}
+
+/* necessary*/
+.second_flex {
+    display: flex;
+    flex-basis: 0;
+    margin-top: -5%;
+ 
+}
+
+/*necessary*/
+.second_flex_child {
+    position: relative;
+    
+}
+
+#kidz_bg {
+    display: flex;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.text_mover {
+    display: flex;
+    position: absolute;
+    top: -3%;
+    left: 5%;
+    font-size: 5vw;
+    color: rgb(226, 235, 243);
+  
+}
+
+.text_mover2 {
+    position: absolute;
+    top: 55%;
+    left: 5%;
+    font-size: 2vw;
+    color: rgb(226, 235, 243);
+   
+}
+
+.third_section {
+    margin-top: 3%;
+    margin-left: 4%;
+    margin-bottom: 0.3%;
+    font-size: 1.5vw;
+}
+
+.fourth_section {
+    display: flex;
+    margin-left: 4%;
+    margin-right: 0%;
+    
+}
+
+.one {
+  
+    max-width: 80%;
+    max-height: 80%;
+   
+}
+
+.two {
+
+    max-width: 80%;
+    max-height: 80%;
+ 
+   
+}
+
+.three {
+   
+    max-width: 80%;
+    max-height: 80%;
+}
+   
+
+.four {
+  
+    max-width: 80%;
+    max-height: 80%;
+   
+}
+
+.five {
+   
+    max-width: 80%;
+    max-height: 80%;
+   
+}
+
+.six {
+    
+    max-width: 80%;
+    max-height: 80%;
+  
+}
+    
+.cart {
+ display: inline-flex;
+ 
+}
+
+.book-kart [
+    
+]
